@@ -10,4 +10,4 @@ topic-A
 
 topic-B
 
-topic-B2
+topic-C
